@@ -66,4 +66,5 @@ ASSuME is based on Python3.6+ and will not run on legacy Python 2.7. It relies o
 -	sqlalchemy
 -	argparse
 -	mygene
+
 These packages can all be installed with pip3 e.g.: pip3 install <module> 
