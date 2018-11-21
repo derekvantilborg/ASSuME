@@ -1,4 +1,6 @@
 # ASSuME
+“This study project has been carried out in the Bioinformatics Minor of Academie voor de Technologie van Gezondheid en Milieu at Avans Hogeschool under the supervision of Dr. ir. Miaomiao Zhou and Dr. Kees Rodenburg. “ 
+
 Amplicon Sequencing Snp MappEr
 
 Usage
